@@ -1,0 +1,92 @@
+{
+  "basic": {
+    "title": "Базовая отделка",
+    "items": [
+      {
+        "id": "basic-1",
+        "name": "Стандартная покраска стен",
+        "price": 50000
+      }
+    ]
+  },
+  "premium": {
+    "title": "Премиум отделка",
+    "items": [
+      {
+        "id": "finish_premium_walls",
+        "name": "Декоративные панели",
+        "price": 85000
+      },
+      {
+        "id": "finish_premium_ceiling",
+        "name": "Многоуровневый потолок",
+        "price": 75000
+      },
+      {
+        "id": "finish_premium_floor",
+        "name": "Премиум ковролин",
+        "price": 90000
+      },
+      {
+        "id": "finish_premium_light",
+        "name": "Дизайнерское освещение",
+        "price": 120000
+      },
+      {
+        "id": "finish_premium_doors",
+        "name": "Премиум двери",
+        "price": 65000
+      },
+      {
+        "id": "finish_premium_trim",
+        "name": "Дизайнерский плинтус",
+        "price": 45000
+      },
+      {
+        "id": "finish_premium_paint",
+        "name": "Премиум покраска",
+        "price": 55000
+      }
+    ]
+  },
+  "luxury": {
+    "title": "Люкс отделка",
+    "items": [
+      {
+        "id": "finish_luxury_walls",
+        "name": "Эксклюзивные стеновые панели",
+        "price": 180000
+      },
+      {
+        "id": "finish_luxury_ceiling",
+        "name": "Дизайнерский потолок",
+        "price": 150000
+      },
+      {
+        "id": "finish_luxury_floor",
+        "name": "Элитное напольное покрытие",
+        "price": 200000
+      },
+      {
+        "id": "finish_luxury_light",
+        "name": "Умное освещение",
+        "price": 250000
+      },
+      {
+        "id": "finish_luxury_doors",
+        "name": "Двери премиум-класса",
+        "price": 180000
+      },
+      {
+        "id": "finish_luxury_trim",
+        "name": "Эксклюзивный плинтус",
+        "price": 90000
+      },
+      {
+        "id": "finish_luxury_paint",
+        "name": "Люкс покраска",
+        "price": 120000
+      }
+    ]
+  }
+}

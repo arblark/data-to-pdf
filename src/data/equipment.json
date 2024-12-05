@@ -1,0 +1,89 @@
+{
+  "c_klasse": {
+    "items": [
+      {
+        "id": "equip_c_receiver",
+        "name": "AV-ресивер начального уровня",
+        "price": 45000
+      },
+      {
+        "id": "equip_c_speakers",
+        "name": "Фронтальные колонки C-класс",
+        "price": 35000
+      },
+      {
+        "id": "equip_c_subwoofer",
+        "name": "Сабвуфер базовый",
+        "price": 25000
+      },
+      {
+        "id": "equip_c_center",
+        "name": "Центральный канал C-класс",
+        "price": 20000
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&w=300",
+      "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&w=300",
+      "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&w=300"
+    ]
+  },
+  "e_klasse": {
+    "items": [
+      {
+        "id": "equip_e_receiver",
+        "name": "AV-ресивер среднего класса",
+        "price": 120000
+      },
+      {
+        "id": "equip_e_speakers",
+        "name": "Напольные колонки E-класс",
+        "price": 180000
+      },
+      {
+        "id": "equip_e_subwoofer",
+        "name": "Активный сабвуфер E-класс",
+        "price": 95000
+      },
+      {
+        "id": "equip_e_center",
+        "name": "Центральный канал E-класс",
+        "price": 85000
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&w=300",
+      "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&w=300",
+      "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&w=300"
+    ]
+  },
+  "s_klasse": {
+    "items": [
+      {
+        "id": "equip_s_processor",
+        "name": "AV-процессор премиум",
+        "price": 450000
+      },
+      {
+        "id": "equip_s_amplifier",
+        "name": "Усилитель мощности S-класс",
+        "price": 380000
+      },
+      {
+        "id": "equip_s_speakers",
+        "name": "Акустическая система S-класс",
+        "price": 850000
+      },
+      {
+        "id": "equip_s_subwoofer",
+        "name": "Сабвуфер премиум",
+        "price": 320000
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&w=300",
+      "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&w=300",
+      "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&w=300"
+    ]
+  }
+}

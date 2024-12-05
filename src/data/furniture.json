@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": "furn_chair_premium",
+      "name": "Кресло Premium Comfort",
+      "description": "Кожаное кресло с электроприводом",
+      "price": 125000,
+      "image": "https://images.unsplash.com/photo-1545897544-57486a773fea?auto=format&fit=crop&w=300"
+    },
+    {
+      "id": "furn_sofa_cinema",
+      "name": "Диван Cinema Luxe",
+      "description": "3-местный диван с держателями",
+      "price": 280000,
+      "image": "https://images.unsplash.com/photo-1595514535415-dae8580c416c?auto=format&fit=crop&w=300"
+    },
+    {
+      "id": "furn_rack_premium",
+      "name": "Стойка для оборудования",
+      "description": "Премиум стойка с подсветкой",
+      "price": 85000,
+      "image": "https://images.unsplash.com/photo-1595514535415-dae8580c416c?auto=format&fit=crop&w=300"
+    },
+    {
+      "id": "furn_bar_cinema",
+      "name": "Барная стойка Cinema",
+      "description": "Встроенный холодильник",
+      "price": 150000,
+      "image": "https://images.unsplash.com/photo-1595514535415-dae8580c416c?auto=format&fit=crop&w=300"
+    },
+    {
+      "id": "furn_chair_standard",
+      "name": "Кресло Standard",
+      "description": "Базовое кресло с подстаканником",
+      "price": 45000,
+      "image": "https://images.unsplash.com/photo-1545897544-57486a773fea?auto=format&fit=crop&w=300"
+    }
+  ]
+}

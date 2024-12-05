@@ -1,0 +1,56 @@
+{
+  "standard": [
+    {
+      "id": "sound_std_walls",
+      "name": "Базовая изоляция стен",
+      "price": 25000
+    },
+    {
+      "id": "sound_std_panels",
+      "name": "Звукоизоляционные панели",
+      "price": 35000
+    },
+    {
+      "id": "sound_std_doors",
+      "name": "Уплотнение дверей",
+      "price": 15000
+    },
+    {
+      "id": "sound_std_windows",
+      "name": "Обработка окон",
+      "price": 30000
+    },
+    {
+      "id": "sound_std_ceiling",
+      "name": "Базовая обработка потолка",
+      "price": 28000
+    }
+  ],
+  "professional": [
+    {
+      "id": "sound_pro_walls",
+      "name": "Премиум система стен",
+      "price": 75000
+    },
+    {
+      "id": "sound_pro_floor",
+      "name": "Плавающий пол",
+      "price": 120000
+    },
+    {
+      "id": "sound_pro_ceiling",
+      "name": "Акустический потолок",
+      "price": 95000
+    },
+    {
+      "id": "sound_pro_doors",
+      "name": "Звукоизоляционные двери",
+      "price": 85000
+    },
+    {
+      "id": "sound_pro_panels",
+      "name": "Профессиональные панели",
+      "price": 150000
+    }
+  ]
+}
